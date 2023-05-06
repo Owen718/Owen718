@@ -7,6 +7,8 @@
 
 - 👯 I’m looking to collaborate on **Video Restoration and Optical Flow Estimation.**
 
+- 📄 Know about my Papers [https://scholar.google.com/citations?user=1sGXZ-wAAAAJ&hl=en](https://scholar.google.com/citations?user=1sGXZ-wAAAAJ&hl=en)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
