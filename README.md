@@ -3,13 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owen718&label=Profile%20views&color=0e75b6&style=flat" alt="owen718" /> </p>
 
-- 🔭 I’m currently working on **Video Restoration, Robust Optical Flow And Image Restoration**
+- 🔭 I’m currently working on **Video Restoration, Robust Optical Flow and Image Restoration**
 
 - 👯 I’m looking to collaborate on **Video Restoration and Optical Flow Estimation.**
 
 - 📄 Know about my Papers [Google Scholar](https://scholar.google.com/citations?user=1sGXZ-wAAAAJ&hl=en)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
