@@ -9,7 +9,7 @@
 
 - 📄 Know about my Papers [Google Scholar](https://scholar.google.com/citations?user=1sGXZ-wAAAAJ&hl=en)
 
-- Contact Me Anytime if I could help you! **My WeChatID@wxh59309063**.
+- Please do not hesitate to reach out to me if I can be of any assistance for your research! **My WeChatID@wxh59309063**.
 
 <p align="left">
 </p>
