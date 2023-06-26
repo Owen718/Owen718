@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Video Restoration and Optical Flow Estimation.**
 
-- 📄 Know about my Papers [Google Scholar](https://scholar.google.com/citations?user=1sGXZ-wAAAAJ&hl=en)
+- 📄 Know about me from  [My Homepage](https://owen718.github.io)
 
 - Please do not hesitate to reach out to me if I can be of any assistance for your research! **My WeChatID@wxh59309063**.
 
