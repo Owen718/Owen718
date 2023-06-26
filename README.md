@@ -9,7 +9,7 @@
 
 - 📄 Know about me from  [My Homepage](https://owen718.github.io).
 
-- Please do not hesitate to reach out to me if I can be of any assistance for your research! **My WeChatID@wxh59309063**.
+- Please do not hesitate to reach out to me if I can be of any assistance for your research! **My WeChatID-wxh59309063 My Email-maserowen718@gmail.com**.
 
 <p align="left">
 </p>
