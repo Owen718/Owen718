@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owen718&label=Profile%20views&color=0e75b6&style=flat" alt="owen718" /> </p>
 
-- 🔭 I’m currently working on **Video Restoration, Robust Optical Flow and Image Restoration**
+- 🔭 I’m currently working on **Video/Image Restoration and Diffusion Models**
 
-- 👯 I’m looking to collaborate on **Video Restoration and Optical Flow Estimation.**
+- 👯 I’m looking to collaborate on **Video Restoration and Diffusion Models.**
 
 - 📄 Know about me from  [My Homepage](https://owen718.github.io).
 
