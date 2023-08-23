@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Video/Image Restoration and Diffusion Models**
 
-- 👯 I’m looking to collaborate on **Video Restoration and Diffusion Models.**
+- 👯 I’m looking to collaborate on **Video Processing/Generation and Diffusion Models.**
 
 - 📄 Know about me from  [My Homepage](https://owen718.github.io).
 
