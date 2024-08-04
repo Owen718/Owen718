@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owen718&label=Profile%20views&color=0e75b6&style=flat" alt="owen718" /> </p>
 
-- 🧑‍🎓 I’m an incoming **PhD Student@HKUST-ROAS Thrust.**
+- 🧑‍🎓 I’m a **PhD Student@HKUST-ROAS Thrust.**
 
-- 🔭 I’m currently working on **Diffusion Modes and AIGC Tasks**.
+- 🔭 I’m currently working on **Diffusion Modes**.
 
 - 📄 Know about me from  [My Homepage](https://owen718.github.io).
 
