@@ -5,7 +5,7 @@
 
 - 🧑‍🎓 I’m Co-founder@[MeissonFlow Research](https://huggingface.co/MeissonFlow), and also a **PhD Student@HKUST-ROAS Thrust.**
 
-- 🔭 I’m currently working on **Generative Models**.
+- 🔭 I’m currently working on **Generative Video Models** at [Hedra](https://www.hedra.com/).
 
 - 📄 Know about me from  [My Homepage](https://owen718.github.io).
 
