@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owen718&label=Profile%20views&color=0e75b6&style=flat" alt="owen718" /> </p>
 
-- 🧑‍🎓 I’m Co-founder@[MeissonFlow Research](https://huggingface.co/MeissonFlow), and also a **PhD Student@HKUST-ROAS Thrust.**  I am a core contributor to the development of SOTA high-resolution non-AR text-to-image model **Meissonic**.
+- 🧑‍🎓 I’m a **PhD Student@HKUST(GZ)-ROAS Thrust.**  I am a core contributor to **Meissonic, Character-3@Hedra (MagicInfinite).**.
 
-- 🔭 I’m currently working on **Generative Video Models** at [Hedra](https://www.hedra.com/).
+- 🔭 I’m currently working on **Generative Video Models**.
 
 - 📄 Know about me from  [My Homepage](https://owen718.github.io).
 
