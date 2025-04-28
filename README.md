@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owen718&label=Profile%20views&color=0e75b6&style=flat" alt="owen718" /> </p>
 
-- 🧑‍🎓 I’m a **PhD Student@HKUST(GZ)-ROAS Thrust.**  I am a core contributor to **Meissonic, Character-3@Hedra (MagicInfinite).**.
+- 🧑‍🎓 I’m a **PhD Student@HKUST(GZ)-ROAS Thrust.**  I am a core contributor to **Meissonic, Character-3@Hedra (MagicInfinite)**.
 
 - 🔭 I’m currently working on **Generative Video Models**.
 
