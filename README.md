@@ -9,7 +9,7 @@
 
 - 📄 Know about me from  [My Homepage](https://owen718.github.io).
 
-- 📧 Contact me: **tye610@connect.hkust-gz.edu.cn** | **tian@hedra.com** . 
+- 📧 Contact me: **tye610@connect.hkust-gz.edu.cn** . 
 
 <p align="left">
 </p>
