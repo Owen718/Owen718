@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Owen718</h1>
 <h3 align="center">A passionate CV Researcher.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=owen718&label=Profile%20views&color=0e75b6&style=flat" alt="owen718" /> </p>
+
 
 - 🧑‍🎓 I’m a **PhD Student@HKUST(GZ)-ROAS Thrust.**  I am a core contributor to **Meissonic, Character-3@Hedra (MagicInfinite)**.
 
