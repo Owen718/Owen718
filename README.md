@@ -3,7 +3,7 @@
 
 
 
-- 🧑‍🎓 I’m a **PhD Student@HKUST(GZ)-ROAS Thrust.**  I am a core contributor to **Meissonic, Character-3@Hedra (MagicInfinite)**.
+- 🧑‍🎓 I’m a **PhD Student@HKUST(GZ)-ROAS Thrust.**  I am a core contributor to **Meissonic, Character-3@Hedra (MagicInfinite) and LucidFlux**.
 
 - 🔭 I’m currently working on **Generative Video Models**.
 
