@@ -3,9 +3,9 @@
 
 
 
-- 🧑‍🎓 I’m a **PhD Student@HKUST,Guangzhou.**  I am a core contributor to **Meissonic, Character-3@Hedra (MagicInfinite)， LucidFlux and UltraFlux**.
+- 🧑‍🎓 I’m a **PhD Student@HKUST,Guangzhou.**  I am a core contributor to **Meissonic, Character-3@Hedra (MagicInfinite)， LucidFlux, Sana-WM, UltraFlux and Sol-Pi**.
 
-- 🔭 I’m currently working on **Generative Video Foundation Models** at NVIDIA Research.
+- 🔭 I’m currently working on **Agentic Systems&Video Foundation Models** at NVIDIA Research.
 
 - 📄 Know about me from  [My Homepage](https://owen718.github.io).
 
