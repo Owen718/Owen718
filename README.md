@@ -3,7 +3,7 @@
 
 
 
-- 🧑‍🎓 I’m a **PhD Student@HKUST,Guangzhou.**  I am a core contributor to **Meissonic, Character-3@Hedra (MagicInfinite)， LucidFlux, Sana-WM, UltraFlux and Sol-Pi**.
+- 🧑‍🎓 I’m a **PhD Student@HKUST,Guangzhou.**  I am a core contributor to **Meissonic, Character-3@Hedra (MagicInfinite)， LucidFlux, Sana-WM, UltraFlux and SoL-Pi**.
 
 - 🔭 I’m currently working on **Agentic Systems&Video Foundation Models** at NVIDIA Research.
 
